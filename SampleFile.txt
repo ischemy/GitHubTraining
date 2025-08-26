@@ -1,3 +1,4 @@
 this is sample file 1
 
 Revert testing 1
+This is Comparison Lecture
