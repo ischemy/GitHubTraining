@@ -2,4 +2,8 @@ this is sample file 1
 
 Revert testing 1
 This is Comparison Lecture
+<<<<<<< Updated upstream
 This is Stash LEcture 1 Urgent
+=======
+This is Stash LEcture 1
+>>>>>>> Stashed changes
